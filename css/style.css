@@ -416,7 +416,7 @@ Media Queries
 @media screen and (min-width: 550px) {
   header {
     background: linear-gradient(rgba(0, 0, 0, 0.5) 100%, transparent),
-      center / cover no-repeat url("/img/hero-bg.jpg");
+      center / cover no-repeat url("../img/hero-bg.jpg");
   }
 
   header a {
@@ -511,7 +511,6 @@ Media Queries
     width: 80%;
   }
 }
-
 
 @media screen and (min-width: 750px) {
   header h1,
