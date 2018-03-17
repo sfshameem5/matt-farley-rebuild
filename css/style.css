@@ -43,6 +43,7 @@ header {
   background-color: #252a30;
   color: white;
   flex-direction: column;
+  padding: 0 20px;
 }
 
 header img {
@@ -274,6 +275,7 @@ Section -> Professional Projects
 }
 
 .testimonials span {
+  width: 80%;
   align-self: center;
   margin-right: auto;
 }
